@@ -1,6 +1,6 @@
 # Lecture Inclusive
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e41NqOt_shc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![texte alternatif de l'image](http://img.youtube.com/vi/g7DpYWR8vqA/0.jpg)](https://www.youtube.com/watch?v=g7DpYWR8vqA "Titre de la video")
 
 ## Installation
 
