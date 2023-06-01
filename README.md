@@ -1,6 +1,6 @@
 # Lecture Inclusive
 
-[![texte alternatif de l'image](http://img.youtube.com/vi/g7DpYWR8vqA/0.jpg)](https://www.youtube.com/watch?v=g7DpYWR8vqA "Titre de la video")
+[![vidéo youtube]([http://img.youtube.com/vi/g7DpYWR8vqA/0.jpg](https://i3.ytimg.com/vi/e41NqOt_shc/maxresdefault.jpg))](https://www.youtube.com/watch?v=g7DpYWR8vqA "Lecture Inclusive - l'extension chrome")
 
 ## Installation
 
