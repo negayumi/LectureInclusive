@@ -1,7 +1,6 @@
 # Lecture Inclusive
 
-[![Vidéo youtube](https://i3.ytimg.com/vi/e41NqOt_shc/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=e41NqOt_shc "Lecture Inclusive")
+[![Vidéo youtube](https://i3.ytimg.com/vi/e41NqOt_shc/maxresdefault.jpg)](https://www.youtube.com/watch?v=e41NqOt_shc "Lecture Inclusive")
 
 ## Installation
 
