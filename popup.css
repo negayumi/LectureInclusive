@@ -1,0 +1,16 @@
+/* Dans popup.css */
+.toggle-button {
+    display: block;
+    width: 100px;
+    height: 30px;
+    background-color: #e73838;
+    border: none;
+    border-radius: 15px;
+    padding: 4px;
+    cursor: pointer;
+  }
+  
+  .toggle-button.active {
+    background-color: #66bb6a;
+  }
+  

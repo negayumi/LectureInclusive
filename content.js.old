@@ -1,0 +1,27 @@
+console.log("Content script loaded");
+
+function replacePronouns(node) {
+  if (node.nodeType === Node.TEXT_NODE) {
+    let content = node.textContent;
+    
+    content = content.replace(/\biel\b/gi, 'il');
+    content = content.replace(/\biels\b/gi, 'ils');
+    content = content.replace(/\bille\b/gi, 'lui');
+    content = content.replace(/\belleux\b/gi, 'elles');
+    content = content.replace(/\beuxes\b/gi, 'eux');
+    content = content.replace(/\blo\b/gi, 'le');
+    content = content.replace(/\blu\b/gi, 'le');
+    content = content.replace(/\bli\b/gi, 'la');
+    content = content.replace(/\blia\b/gi, 'la');
+    content = content.replace(/\bmaon\b/gi, 'mon');
+    content = content.replace(/\btaon\b/gi, 'ton');
+    content = content.replace(/\bsaon\b/gi, 'son');
+
+    
+    node.textContent = content;
+  } else {
+    node.childNodes.forEach(replacePronouns);
+  }
+}
+
+replacePronouns(document.body);

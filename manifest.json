@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Lecture Inclusive",
+    "version": "1.0",
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon" : "icon.png"
+    },
+    "permissions": [
+      "activeTab", 
+      "scripting"
+    ],
+    "background": {
+      "service_worker": "background.js"
+    }
+  }
+  
