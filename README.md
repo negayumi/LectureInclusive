@@ -1,5 +1,7 @@
 # Lecture Inclusive
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e41NqOt_shc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Installation
 
 Pour installer cette extension Chrome directement à partir de ce dépôt GitHub, suivez les étapes ci-dessous :
