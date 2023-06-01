@@ -1,4 +1,4 @@
-# Extension Chrome pour l'Adaptation de l'Écriture Inclusive 
+# Lecture Inclusive
 
 ## Installation
 
